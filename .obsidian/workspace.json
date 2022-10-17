@@ -4,16 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b27c5561eb760e8e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Differential Privacy. A Survey of Results.md",
-            "mode": "source",
-            "source": false
+        "id": "1b2d85eaff6f4df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b27c5561eb760e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Privacy. A Survey of Results.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4f41201ad6b7081",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "b7ad6f36ac76e0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privacy-preserving data sharing via probabilistic modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +60,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Privacy. A Survey of Results.md",
+                "file": "Privacy-preserving data sharing via probabilistic modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Privacy. A Survey of Results.md",
+                "file": "Privacy-preserving data sharing via probabilistic modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Privacy. A Survey of Results.md"
+                "file": "Privacy-preserving data sharing via probabilistic modeling.md"
               }
             }
           },
@@ -136,10 +167,14 @@
     "direction": "horizontal",
     "width": 311.5
   },
-  "active": "b27c5561eb760e8e",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b7ad6f36ac76e0fc",
   "lastOpenFiles": [
-    "123123.md",
+    "Non-Interactive Differential Privacy. a Survey.md",
     "Differential Privacy. A Survey of Results.md",
+    "Privacy-preserving data sharing via probabilistic modeling.md",
     "2022-10-10.md"
   ]
 }
