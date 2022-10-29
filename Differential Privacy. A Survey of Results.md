@@ -1,4 +1,5 @@
-# [Differential Privacy: A Survey of Results](https://www.cell.com/patterns/fulltext/S2666-3899(21)00097-0)
+# [Differential Privacy: A Survey of Results](https://link.springer.com/chapter/10.1007/978-3-540-79228-4_1)
+
 ## What should know
 
 if the noise is symmetric about the originand the same question is asked many times, the responses may be averaged,cancelling out the noise. *and record queries to return same result is impossible in some ways* [Revealing Information While Preserving Privacy (2003)](https://dl.acm.org/doi/abs/10.1145/773153.773173)
@@ -22,3 +23,15 @@ $$Pr[\mathcal{K}(D1)\in S]≤exp(\epsilon)×Pr[\mathcal{K}(D2)\in S]$$
 For $f:\mathcal{D}→R^k$, the sensitivity of $f$ is
 
 $$Δf=\max\limits_{D1,D2}‖f(D1)−f(D2)‖_1$$
+
+
+
+
+
+## Contingency Table Release
+
+### Move to the Fourier Domain.
+
+
+### Use Linear Programming and Rounding
+
